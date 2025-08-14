@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+aiogram>=3.0.0b5
+httpx
+pydantic-settings
